@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmaji05&show_icons=true&locale=en" alt="sharmaji05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaji05&" alt="sharmaji05" /></p>
+
