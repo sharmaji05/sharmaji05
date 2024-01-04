@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="left">A passionate Data Scientist, Software developer from India</h3>
-<img align="right" alt="coding" width = "400" src = "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952zz7rpjkl60ku7upvdm8gfvzz07zqv5ifv6qb0lbu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width = "400" src = "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - ⚡ Fun fact **I always try to inject some humor into situations**
 
